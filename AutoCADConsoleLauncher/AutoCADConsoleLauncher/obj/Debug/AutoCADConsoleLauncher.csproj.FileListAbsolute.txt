@@ -1,0 +1,10 @@
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\obj\Debug\AutoCADConsoleLauncher.csproj.AssemblyReference.cache
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\obj\Debug\AutoCADConsoleLauncher.Properties.Resources.resources
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\obj\Debug\AutoCADConsoleLauncher.csproj.GenerateResource.cache
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\obj\Debug\AutoCADConsoleLauncher.csproj.CoreCompileInputs.cache
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\bin\Debug\AutoCADConsoleLauncher.exe.config
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\bin\Debug\AutoCADConsoleLauncher.exe
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\bin\Debug\AutoCADConsoleLauncher.pdb
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\obj\Debug\AutoCADConsoleLauncher.exe
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\obj\Debug\AutoCADConsoleLauncher.pdb
+E:\CODE\项目\AutoCADConsoleLauncher\AutoCADConsoleLauncher\obj\Debug\AutoCADPluginLauncher.MainForm.resources

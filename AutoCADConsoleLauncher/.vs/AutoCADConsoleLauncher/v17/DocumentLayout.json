@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|e:\\code\\\u9879\u76EE\\autocadconsolelauncher\\personnelmanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|solutionrelative:personnelmanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|e:\\code\\\u9879\u76EE\\autocadconsolelauncher\\personnelmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|solutionrelative:personnelmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|e:\\code\\\u9879\u76EE\\autocadconsolelauncher\\personnelmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|solutionrelative:personnelmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\personnelmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|solutionrelative:personnelmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\personnelmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{158536D5-5541-4054-A03C-D6CCB25EC3D2}|PersonnelManagementSystem\\PersonnelManagementSystem.csproj|solutionrelative:personnelmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "PersonnelManagementSystem\\MainForm.Designer.cs",
+              "ToolTip": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\MainForm.Designer.cs",
+              "RelativeToolTip": "PersonnelManagementSystem\\MainForm.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:32:33.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "PersonnelManagementSystem\\MainForm.cs",
+              "ToolTip": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "PersonnelManagementSystem\\MainForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:20:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "PersonnelManagementSystem\\MainForm.cs",
+              "ToolTip": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "PersonnelManagementSystem\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:20:43.56Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PersonnelManagementSystem\\LoginForm.cs",
+              "ToolTip": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "PersonnelManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:16:09.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PersonnelManagementSystem\\LoginForm.cs",
+              "ToolTip": "E:\\CODE\\\u9879\u76EE\\AutoCADConsoleLauncher\\PersonnelManagementSystem\\LoginForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "PersonnelManagementSystem\\LoginForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:13:45.423Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

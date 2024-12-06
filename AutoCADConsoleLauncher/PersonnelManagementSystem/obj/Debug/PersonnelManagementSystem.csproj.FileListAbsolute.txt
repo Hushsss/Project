@@ -1,0 +1,9 @@
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\bin\Debug\PersonnelManagementSystem.exe.config
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\bin\Debug\PersonnelManagementSystem.exe
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\bin\Debug\PersonnelManagementSystem.pdb
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\obj\Debug\PersonnelManagementSystem.csproj.AssemblyReference.cache
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\obj\Debug\PersonnelManagementSystem.Properties.Resources.resources
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\obj\Debug\PersonnelManagementSystem.csproj.GenerateResource.cache
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\obj\Debug\PersonnelManagementSystem.csproj.CoreCompileInputs.cache
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\obj\Debug\PersonnelManagementSystem.exe
+E:\CODE\项目\AutoCADConsoleLauncher\PersonnelManagementSystem\obj\Debug\PersonnelManagementSystem.pdb
